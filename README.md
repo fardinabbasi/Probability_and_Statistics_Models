@@ -13,4 +13,10 @@
 <h2> Branch: CA#2 </h2>
   <h3> The Sum of Two Variables with Normal Distribution </h3>
   <h3> Creating a Normal Distribution from a Uniform Distribution </h3>
-  <h3> Buffon's needle </h3>
+  <h3> Buffon's Needle </h3>
+<h2> Branch: CA#3 </h2>
+  <h3> Bertrand Paradox </h3>
+  <h3> Estimation of Euler Number with Uniform Distribution </h3>
+  <h3> Banach's Match-Box Problem </h3>
+  <h3> Integral Calculation </h3>
+  <h3> Data Analysis on "Student Performance" Dataset </h3>
