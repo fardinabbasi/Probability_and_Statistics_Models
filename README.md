@@ -12,8 +12,8 @@
       </ol>
   </h3>
   
-  ## Q2 Birthday Problem
-  
+  ## Q2: Birthday Problem
+  In probability theory, the [birthday problem](https://brilliant.org/wiki/birthday-paradox/) asks for the probability that, in a set of n randomly chosen people, at least two will share a birthday. The birthday paradox is that, counterintuitively, the probability of a shared birthday exceeds 50% in a group of only 23 people. For more information, you can read:
 <h2> Branch: CA#2 </h2>
   <h3> The Sum of Two Variables with Normal Distribution </h3>
   <h3> Creating a Normal Distribution from a Uniform Distribution </h3>
