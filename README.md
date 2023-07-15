@@ -13,11 +13,14 @@
   </h3>
   
   ## Q2: Birthday Problem
-  In probability theory, the [birthday problem](https://brilliant.org/wiki/birthday-paradox/) asks for the probability that, in a set of n randomly chosen people, at least two will share a birthday. The birthday paradox is that, counterintuitively, the probability of a shared birthday exceeds 50% in a group of only 23 people. For more information, you can read:
-<h2> Branch: CA#2 </h2>
-  <h3> The Sum of Two Variables with Normal Distribution </h3>
-  <h3> Creating a Normal Distribution from a Uniform Distribution </h3>
-  <h3> Buffon's Needle </h3>
+  The [birthday problem](https://brilliant.org/wiki/birthday-paradox/), a concept in probability theory, revolves around determining the likelihood of at least two individuals sharing a birthday within a randomly selected group of n people. Interestingly, the birthday paradox demonstrates that even with a group as small as 23 people, the probability of finding a shared birthday surpasses 50%, contrary to what one might intuitively expect.
+  
+# [CA2](https://github.com/fardinabbasi/Probability_and_Statistics_Models/tree/CA%232)
+## Q1: Sum of normally distributed random variables
+## Q2: Central limit theorem
+## Q3: Buffon's Needle Problem
+[Buffon's needle](https://datagenetics.com/blog/may42015/index.html) is an intriguing problem in geometric probability that dates back to 1777 when it was first proposed by Georges-Louis Leclerc, Comte de Buffon. The problem revolves around dropping a needle onto a set of parallel lines, often visualized as a collection of parallel wooden floorboards. What makes this problem particularly fascinating is that the probabilities associated with it are directly linked to the mathematical constant Pi.
+
 <h2> Branch: CA#3 </h2>
   <h3> Bertrand Paradox </h3>
   <h3> Estimation of Euler Number with Uniform Distribution </h3>
