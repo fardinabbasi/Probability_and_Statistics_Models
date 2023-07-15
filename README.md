@@ -22,8 +22,9 @@
 [Buffon's needle](https://datagenetics.com/blog/may42015/index.html) is an intriguing problem in geometric probability that dates back to 1777 when it was first proposed by Georges-Louis Leclerc, Comte de Buffon. The problem revolves around dropping a needle onto a set of parallel lines, often visualized as a collection of parallel wooden floorboards. What makes this problem particularly fascinating is that the probabilities associated with it are directly linked to the mathematical constant Pi.
 
 # [CA3](https://github.com/fardinabbasi/Probability_and_Statistics_Models/tree/CA%233)
-  <h3> Bertrand Paradox </h3>
-  <h3> Estimation of Euler Number with Uniform Distribution </h3>
-  <h3> Banach's Match-Box Problem </h3>
-  <h3> Integral Calculation </h3>
-  <h3> Data Analysis on "Student Performance" Dataset </h3>
+## Q1: Bertrand Paradox
+The [Bertrand paradox](https://en.wikipedia.org/wiki/Bertrand_paradox_(probability)) presents a challenge within the classical understanding of probability theory. Joseph Bertrand first introduced this problem in his influential publication "Calculation of Probabilities" in 1889. He used it as an illustration to demonstrate that the principle of indifference may not yield clear and precise outcomes for probabilities when applied without careful consideration, particularly when dealing with an infinite set of possibilities.
+## Q2: Estimation of [Euler Number](https://bldavies.com/blog/uniform-sums-eulers-number/) with Uniform Distribution
+## Q3: Banach's Match-Box Problem
+## Q4: Integral Calculation
+## Q5: Data Analysis on "Student Performance" Dataset
