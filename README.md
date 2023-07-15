@@ -21,7 +21,7 @@
 ## Q3: Buffon's Needle Problem
 [Buffon's needle](https://datagenetics.com/blog/may42015/index.html) is an intriguing problem in geometric probability that dates back to 1777 when it was first proposed by Georges-Louis Leclerc, Comte de Buffon. The problem revolves around dropping a needle onto a set of parallel lines, often visualized as a collection of parallel wooden floorboards. What makes this problem particularly fascinating is that the probabilities associated with it are directly linked to the mathematical constant Pi.
 
-<h2> Branch: CA#3 </h2>
+# [CA3](https://github.com/fardinabbasi/Probability_and_Statistics_Models/tree/CA%233)
   <h3> Bertrand Paradox </h3>
   <h3> Estimation of Euler Number with Uniform Distribution </h3>
   <h3> Banach's Match-Box Problem </h3>
