@@ -1,4 +1,10 @@
 # Probability and Statistics Models
+> <picture>
+>   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/light-theme/info.svg">
+>   <img alt="Info" src="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/dark-theme/info.svg">
+> </picture><br>
+>
+> Check the branches!
 # [CA1](https://github.com/fardinabbasi/Probability_and_Statistics_Models/tree/CA%231)
   ## Q1: Win/Lose Game
   The **win/Lose game** is played by throwing two dice. We define winning and losing in this game as follows:
